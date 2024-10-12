@@ -7,4 +7,4 @@
 - Arduino NANO, HC-SR04, SG-90 2 pcs
 
 
-<div><img src="/bokeh.jpg"></div>
+<div><img src="/bokeh.jpg" /></div>
