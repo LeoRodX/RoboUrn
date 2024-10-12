@@ -1,10 +1,10 @@
 <div>
 <table height="100" border="1">
-  <tr>
-    <td border="1">Web accessibility</td>    
+  <tr height="100" >
+    <td>1</td>    
   </tr>
-   <tr border="1">
-    <td>Web accessibility</td>    
+   <tr height="100" >
+    <td>2</td>    
   </tr>
 </table>   
 </div>
