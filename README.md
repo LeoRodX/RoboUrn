@@ -1,4 +1,4 @@
-<div>
+<div height="100">
 <table height="100" border="1">
   <tr height="48" >
     <td>1</td>    
