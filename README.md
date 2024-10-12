@@ -8,7 +8,7 @@
 
 <div>
   <figure>
-  <img src="circuit.png">
+  <img src="circuit.png" />
   <figcaption>Circuit</figcaption>
   </figure>
 </div>
