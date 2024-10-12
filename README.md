@@ -6,6 +6,7 @@
 - The original mechanism for lifting the lid is only screws servo and hot glue
 - Arduino NANO, HC-SR04, SG-90 2 pcs
 
-[![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)]
+[![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
+[provided with the theme](https://github.com/pages-themes/minimal/tree/master/_includes)
 
 
