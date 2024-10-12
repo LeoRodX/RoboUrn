@@ -6,23 +6,3 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div>
-<header>
-        <h1 class="header">Dinky theme</h1>
-        <p class="header">Dinky is a red hot theme for GitHub Pages.</p>
-
-        <ul>
-          
-            <li class="download"><a class="buttons" href="https://github.com/pages-themes/dinky/zipball/master">Download ZIP</a></li>
-            <li class="download"><a class="buttons" href="https://github.com/pages-themes/dinky/tarball/master">Download TAR</a></li>
-          
-          <li><a class="buttons github" href="https://github.com/pages-themes/dinky">View On GitHub</a></li>
-        </ul>
-
-        
-          <p class="header">This project is maintained by <a class="header name" href="https://github.com/pages-themes">pages-themes</a></p>
-        
-
-        
-      </header>
-      </div>
