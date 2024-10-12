@@ -9,7 +9,7 @@
 <div>
   <figure>
   <img src="circuit.png">
-  <figcaption>Текст подписи под изображением</figcaption>
+  <figcaption>Circuit</figcaption>
   </figure>
 </div>
 
