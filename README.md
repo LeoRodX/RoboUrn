@@ -1,6 +1,9 @@
 <div>
 <table height="100" border="1">
   <tr>
+    <td border="1">Web accessibility</td>    
+  </tr>
+   <tr border="1">
     <td>Web accessibility</td>    
   </tr>
 </table>   
