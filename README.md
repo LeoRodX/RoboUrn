@@ -9,6 +9,6 @@
 <div>
   <figure>
   <img src="сircuit.png" />
-  <figcaption>Circuit</figcaption>
+  <figcaption align="center">Circuit</figcaption>
   </figure>
 </div>
