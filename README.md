@@ -1,5 +1,5 @@
 <div>
-<table>
+<table height="200">
   <tr>
     <td>Web accessibility</td>    
   </tr>
