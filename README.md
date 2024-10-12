@@ -7,6 +7,13 @@
 - Arduino NANO, HC-SR04, SG-90 2 pcs
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
+
 [provided with the theme](https://github.com/pages-themes/minimal/tree/master/_includes)
+
+    ```yml
+    remote_theme: pages-themes/minimal@v0.2.0
+    plugins:
+    - jekyll-remote-theme # add this line to the plugins list if you already have one
+    ```
 
 
