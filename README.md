@@ -13,14 +13,14 @@
 
 <div>
   <figure>
-  <img src="front.jpg" />
+  <img src="front.png" />
   <figcaption align="center">Front</figcaption>
   </figure>
 </div>
 
 <div>
   <figure>
-  <img src="full.jpg" />
+  <img src="full.png" />
   <figcaption align="center">Full</figcaption>
   </figure>
 </div>
