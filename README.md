@@ -1,11 +1,4 @@
-<div height="100">
-<table height="100" border="1">
-  <tr height="48" >
-    <td>1</td>    
-  </tr>
-   <tr height="48" >
-    <td>2</td>    
-  </tr>
+<table height="50" border="1">
 </table>   
 </div>
 ## Robotic urn on Arduino
