@@ -1,9 +1,9 @@
 <div>
 <table height="100" border="1">
-  <tr height="100" >
+  <tr height="50" >
     <td>1</td>    
   </tr>
-   <tr height="100" >
+   <tr height="50" >
     <td>2</td>    
   </tr>
 </table>   
