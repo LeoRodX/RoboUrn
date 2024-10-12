@@ -11,10 +11,11 @@
   </figure>
 </div>
 
+-Front
+
 <div>
   <figure>
   <img src="front.png" />
-  <figcaption align="center">Front</figcaption>
   </figure>
 </div>
 
