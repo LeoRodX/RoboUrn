@@ -6,8 +6,8 @@
 
 <div>
   <figure>
-  <img src="сircuit.png" />
-  <figcaption align="center">Circuit</figcaption>
+  <figcaption>Circuit</figcaption>
+  <img src="сircuit.png" />  
   </figure>
 </div>
 
