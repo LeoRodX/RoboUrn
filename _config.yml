@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
 # title: Minimal theme
-logo: /bokeh.jpg
+logo: /bokeh.png
 # description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
