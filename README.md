@@ -12,6 +12,3 @@
   <figcaption>Circuit</figcaption>
   </figure>
 </div>
-
-
-<div><img src="bokeh.jpg" width="200px" /></div>
