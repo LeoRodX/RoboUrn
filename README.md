@@ -12,3 +12,7 @@ The original mechanism for lifting the lid is only screws servo and hot glue
 Arduino NANO, HC-SR04, SG-90 2 pcs  
 
 <img src="сircuit.png" />   
+
+Строка1  
+Строка2  
+
