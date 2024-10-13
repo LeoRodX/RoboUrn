@@ -9,6 +9,6 @@
 3. Arduino NANO, HC-SR04, SG-90 2 pcs.  
 <img src="сircuit.png" />   
 
-4. Sketch  Arduino RoboUrn [Download](https://github.com/LeoRodX/RoboUrn/blob/main/RoboUrn.ino)
+4. [Download](https://github.com/LeoRodX/RoboUrn/blob/main/RoboUrn.ino) sketch RoboUrn on Arduino.  
    
 ---
