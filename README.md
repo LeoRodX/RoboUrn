@@ -16,6 +16,6 @@ Arduino NANO, HC-SR04, SG-90 2 pcs
 <img src="сircuit.png" />   
 
 Строка11
-<br/>
+<br/><br/>
 Строка22  
 
