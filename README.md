@@ -4,11 +4,10 @@ Opens and smoothly closes the lid when two palms are placed 10-30 cm, the LED fl
 
 <img src="full.png" />
 
-
-   The original mechanism for lifting the lid is only screws servo and hot glue
+The original mechanism for lifting the lid is only screws servo and hot glue
 
 <img src="front.png" />
 
-    Arduino NANO, HC-SR04, SG-90 2 pcs
+Arduino NANO, HC-SR04, SG-90 2 pcs
 
 <img src="сircuit.png" /> 
