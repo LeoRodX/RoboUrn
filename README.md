@@ -1,6 +1,7 @@
 ## Robotic urn on Arduino
 ---
-1. Opens and smoothly closes the lid when two palms are placed 10-30 cm, the LED flickers when hands are detected at a distance of 30-50 cm.![12345](full.png")
+1. Opens and smoothly closes the lid when two palms are placed 10-30 cm, the LED flickers when hands are detected at a distance of 30-50 cm.
+2. ![12345](full.png)
 
 3. The original mechanism for lifting the lid is only screws servo and hot glue.  
 <img src="front.png" />  
