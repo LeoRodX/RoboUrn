@@ -4,13 +4,14 @@
  
     ![](full.png)
     
-3. The original mechanism for lifting the lid is only screws servo and hot glue.
+2. The original mechanism for lifting the lid is only screws servo and hot glue.
    
     ![](front.png)  
 
-5. Arduino NANO, HC-SR04, SG-90 2 pcs.  
-<img src="сircuit.png" />   
+3. Arduino NANO, HC-SR04, SG-90 2 pcs.
+     
+   ![](сircuit.png)   
 
-6. [Download](https://github.com/LeoRodX/RoboUrn/blob/main/RoboUrn.ino) sketch RoboUrn on Arduino.  
+4. [Download](https://github.com/LeoRodX/RoboUrn/blob/main/RoboUrn.ino) sketch RoboUrn on Arduino.  
    
 ---
